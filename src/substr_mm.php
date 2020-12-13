@@ -1,6 +1,4 @@
 <?php
-
-
 namespace substr_mm;
 class substr_mm
 {
