@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "substr_mm": "src/"
+      "substr_mm\\": "src/"
     }
   }
 }
